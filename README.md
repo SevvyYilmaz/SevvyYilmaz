@@ -10,9 +10,8 @@
 
 Hey I am Sevvy, 29 years old born in Turkey raised in Germany,
 
-My journey began with a background in finance from Germany, but it was in this new land that I truly found my calling. Opportunities in sales and finance beckoned, but it was in the realm of coding that I discovered my passion. As a full-stack developer, I've found a way to channel my innate creativity and logical prowess into crafting projects from the ground up. It's a process that resonates deeply with me, as it mirrors my own journey of growth and transformation.
+As a full-stack developer, I've found a way to channel my innate creativity and logical prowess into crafting projects from the ground up. It's a process that resonates deeply with me, as it mirrors my journey of growth and transformation.
 
-Coding, to me, is more than lines of text on a screen; it's a language I've become fluent in, much like the 3 languages I've embraced throughout my journey. Just as I once navigated the challenges of learning a new tongue, I now thrive on the intricacies of crafting solutions using the building blocks of code.
+Coding, to me, is more than lines of text on a screen; it's a language I've become fluent in, much like the three languages I've embraced throughout my journey. Just as I once navigated the challenges, I now thrive on the intricacies of crafting solutions using the building blocks of code.
 
 My story is one of determination, adaptation, and endless curiosity. It's a testament to the power of embracing the unknown and transforming challenges into stepping stones.
-In this exhilarating continuum—a journey where the only constant is growth, It is an ongoing adventure as I continue to bridge the gap between languages, cultures, and now, the digital realm.
